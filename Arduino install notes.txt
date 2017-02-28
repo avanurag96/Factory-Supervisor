@@ -1,0 +1,18 @@
+Installing Arduino IDE and interfacing the board to your IDE
+
+1. Extract Arduino zip file to C drive using Winrar.
+2. Connect your Arduino to the PC onto USB 2.0 port.
+3. Go to device manager in control panel--> System--> Device Manager,
+   search for COM 3 or COM 4 ports, expand, right click on Arduino/other devices and click upgrade driver software.
+   Once that opens , browse to C drive, click on arduino and select the drivers folder, click ok. 
+   Software will be installed.
+
+4. Open IDE, tools, select the appropriate board and ports(COM3/4).
+5. Run the blink led test program from examples. Upload it to board.
+
+
+Adding new libraries:-
+
+1. Download the appropriate arduino library zip files.
+2. Go to ide, sketches, add library, add zip file. Select the downloaded zip file and library file will be added 
+   automatically.
