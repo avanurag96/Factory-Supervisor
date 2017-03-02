@@ -1,0 +1,64 @@
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+Motion detected!
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
+Intruder Alert at room number:504!
+
+AT+CMGF=1
+AT+CMGF=1
+AT+CMGS="+919223557250"
